@@ -1,2 +1,2 @@
-# Infinity-Scroll
+# Infinite-Scroll
 Fetch, Async/Await, Unsplash
