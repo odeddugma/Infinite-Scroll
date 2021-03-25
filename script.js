@@ -9,7 +9,7 @@ let photosArray = [];
 // Unsplash API
 const count = 5;
 const apiKey = 'V4e768e18M48M9baD0cnCnp-Jg50X_oUy4bWG_CVKoI';
-const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}&query=sexy-boy`;
+const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 //Check if all images were loaded
 function imageLoaded() {
